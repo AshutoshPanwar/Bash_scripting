@@ -1,6 +1,6 @@
 #! /usr/bin/bash
 
-name="Monu"
+name="Ashu"
 age=29
 total=16.6
 
